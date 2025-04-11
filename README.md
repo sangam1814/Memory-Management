@@ -230,6 +230,6 @@ You open a photo editing app.
 It tries to load a filter you haven’t used yet.
 That filter isn’t in memory (RAM), so the system fetches it from disk.
 
-This is a page fault — memory didn’t have it, so the system had to get it from storage.
+**This is a page fault memory didn’t have it, so the system had to get it from storage**
 
 
