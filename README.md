@@ -126,9 +126,9 @@ There are two main actions:
 - This helps your system run large programs or handle multiple tasks smoothly — even if RAM is limited.
 
 
-  ## Contiguous Memory Allocation
+## Contiguous Memory Allocation
 
-  Contiguous Memory Allocation is a method where a program gets one big, continuous block of memory when it runs. Think of it like reserving a single row of seats in a theater — all together, no gaps.
+Contiguous Memory Allocation is a method where a program gets one big, continuous block of memory when it runs. Think of it like reserving a single row of seats in a theater — all together, no gaps.
 
 It’s easy to manage and runs efficiently, but it comes with a downside: fragmentation. Over time, small unused gaps can form between programs, and those gaps can’t always be used, even if there’s technically free space.
 
