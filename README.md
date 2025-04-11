@@ -203,11 +203,11 @@ This setup helps the OS manage memory more efficiently and avoid problems like e
 
 ### Types of Page Tables (optional, if going deeper)
 
-- Single-Level Page Table --> simple but can waste space for large address spaces.
+- Single-Level Page Table ->  simple but can waste space for large address spaces.
 
-- Multi-Level Page Table --> saves space by breaking the page table into smaller parts.
+- Multi-Level Page Table -> saves space by breaking the page table into smaller parts.
 
-- Inverted Page Table --> stores one entry per frame instead of per page (used in large systems).
+- Inverted Page Table -> stores one entry per frame instead of per page (used in large systems).
 
 
 ## Page Fault
