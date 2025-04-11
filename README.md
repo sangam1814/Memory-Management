@@ -4,19 +4,20 @@ Main Memory (RAM)
 Main memory, also known as RAM (Random Access Memory), is where your computer stores the data and programs it's actively working on. You can think of it like your computer’s short-term memory — quick, responsive, and essential for smooth performance.
 
 ## Why RAM is Important:
-It temporarily holds data while your computer is running.
 
-RAM is very fast, which helps your system quickly load apps and switch between tasks.
+- It temporarily holds data while your computer is running.
 
-It’s not permanent storage — everything in RAM is cleared when the computer is turned off.
+- RAM is very fast, which helps your system quickly load apps and switch between tasks.
 
-Having more RAM means your computer can:
+- It’s not permanent storage — everything in RAM is cleared when the computer is turned off.
 
-Run more apps at the same time
+- Having more RAM means your computer can:
 
-Handle larger programs or files more easily
+- Run more apps at the same time
 
-Good memory management keeps your system running smoothly and efficiently, without unnecessary slowdowns.
+- Handle larger programs or files more easily
+
+- Good memory management keeps your system running smoothly and efficiently, without unnecessary slowdowns.
 
 
 ## What is Main Memory?
