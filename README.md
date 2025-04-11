@@ -154,12 +154,14 @@ Fragmentation happens when memory gets broken into small pieces that can't be us
 ### Types of Fragmentation
 
 **External Fragmentation**
-This occurs when enough total free memory is available, but it’s not all in one place. The memory is split into smaller non-contiguous chunks, so a new process can’t fit — even though, in total, there’s enough space.
+
+- This occurs when enough total free memory is available, but it’s not all in one place. The memory is split into smaller non-contiguous chunks, so a new process can’t fit — even though, in total, there’s enough space.
 
 Solution: This can be reduced using compaction — moving memory contents around to combine the free spaces into one big block.
 
 **Internal Fragmentation**
-This happens when a memory block given to a process is bigger than what the process actually needs. The leftover space inside that block goes to waste because no other process can use it.
+
+- This happens when a memory block given to a process is bigger than what the process actually needs. The leftover space inside that block goes to waste because no other process can use it.
 
 Solution: This can be reduced by assigning just enough memory — the smallest possible block that fits the process.
 
